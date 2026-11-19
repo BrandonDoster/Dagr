@@ -1,0 +1,18 @@
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+.kotlin/
+
+# APKs and signing material stay local
+*.apk
+*.apkm
+*.jks
+*.keystore
+keystore.properties
+*.p12
+*.pfx
+*.pem
+*.b64
+build-log.txt

@@ -1,0 +1,8 @@
+# Pinned action SHAs get update PRs. Gradle dependencies are bumped by hand: they are checksum-verified
+# (gradle/verification-metadata.xml), so each bump also regenerates that file.
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: monthly
