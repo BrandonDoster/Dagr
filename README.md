@@ -1,4 +1,4 @@
-![Dagr](.github/assets/banner.png)
+![Dagr](docs/dagr_banner.png)
 
 # Dagr
 
