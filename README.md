@@ -33,7 +33,7 @@ Android 17 (API 37). Built and tested on a Pixel 11 Pro.
 Check a download against the release's `SHA256SUMS`. Release APKs are signed with this certificate (Android refuses updates signed with anything else):
 
 ```
-SHA-256: 93:79:C5:4D:A0:1C:60:A5:1B:9A:25:FF:13:BE:B2:F2:22:C5:CA:47:BB:08:29:9C:FF:F1:C5:DD:DD:47:2D:98
+SHA-256: 58:97:99:E1:7D:B7:78:41:59:41:BD:98:9C:7B:5F:61:18:17:77:B8:AB:84:95:48:59:E5:85:31:9B:B3:BC:29
 ```
 
 ## Build
